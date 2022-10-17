@@ -19,3 +19,9 @@ Route::get('/', function () {
 Route::get('/Inicio', function () {
     return view('inicio');
 });
+Route::get('/Auditiva', function () {
+    return view('Auditiva');
+});
+Route::get('/Cursos', function () {
+    return view('Cursos');
+});

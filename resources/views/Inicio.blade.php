@@ -37,6 +37,22 @@ body{
     <div class="collapse navbar-collapse" id="navbarScroll">
       <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll" style="--bs-scroll-height: 100px;">
 
+
+      <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Discapacidad
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="Auditiva.blade.php">Auditiva</a></li>
+            <li><a class="dropdown-item" href="#">visual</a></li>
+            <li><a class="dropdown-item" href="#">Mental</a></li>
+            <li><a class="dropdown-item" href="#">fisica</a></li>
+            <li><a class="dropdown-item" href="#">Sensorial</a></li>
+            <li><a class="dropdown-item" href="#">Psicosocial</a></li>
+            <li><a class="dropdown-item" href="#">visual</a></li>
+          </ul>
+        </li>
+
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Cursos
@@ -136,7 +152,7 @@ body{
 
 <div class="container">
 <center>
-    <h1 class="my-4">Bienvenidos y bienvenidas a <br> "Camino virtual  para vida independiente"</h1>
+    <h1 class="my-4">Bienvenid@s <br> "Camino virtual  para vida independiente"<br>De personas con discapacidad</h1>
   </center>
 </div>
 <div class="row">
@@ -211,18 +227,8 @@ body{
 <br>
 <footer class="py-5 bg-dark">
     <div class="container">
-      <p class="m-0 text-center text-white">Copyright &copy; Equipo colaboradores de centro de innovación KIULNA <br> URACCAN LAS MINAS 2022</p>
-     <div class="contenuto">
-      <div class="social">
-        <a href="#"><img src="img/facebook.png" alt="facebook"></a>
-        <a  href="#"><img src="img/youtube.png" alt="youtube"></a>
-        <a  href="#"><img src="img/linkedin.png" alt="linkedin"></a>
-        <a  href="#"><img src="img/twitter.png" alt="twitter"></a>
-        <a  href="#"><img src="img/WhatsApp_48px.png" alt="wasap"></a>
-      </div>
-     </div>
-     
-    </div>
+      <p class="m-0 text-center text-white">Copyright &copy; Plataforma en proceso de creacion 2022 <br> URACCAN LAS MINAS 2022</p>
+   </div>
     <!-- /.container -->
   </footer>
 
